@@ -1,27 +1,23 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Flutter Piano APP 🎹
 
+## AppBrewery Course app
 
-# Xylophone 🎹
-
-## Our Goal
-
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+This is a sample app, learned as an example from appbrewery.co course.
+Even though it is from the course, but the code has been completly written from scratch.
 
 
 ## What you will create
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+A Sample Piano app, that will play a unique music tone when each piano button is pressed. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+<img src="https://github.com/TechInCharge/flutter-dice-app/blob/master/Flutter-Dice-app.gif" alt="alt text" width="whatever" height="600">
 
-## What you will learn
+## Concepts in this App
 
-- How to incorporate open source libraries of code into your project using Flutter Packages.
-- How to play sound on both iOS and Android.
-- How to generate repeated user interface Widgets.
-- How to use Dart functions that can take input arguments as well as return an output.
+- Incorporate open source libraries of code into your project using Flutter Packages.
+- Play sound on both iOS and Android.
+- Generate repeated user interface Widgets.
+- Use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+If you want to learn how to create flutter apps you can check out The App Brewery's Complete Flutter Development Bootcamp, it is a great course by Angela Yu at [www.appbrewery.co](https://www.appbrewery.co/)
