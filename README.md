@@ -10,7 +10,7 @@ Even though it is from the course, but the code has been completly written from 
 
 A Sample Piano app, that will play a unique music tone when each piano button is pressed. 
 
-<img src="https://github.com/TechInCharge/flutter-dice-app/blob/master/Flutter-Dice-app.gif" alt="alt text" width="whatever" height="600">
+<img src="https://github.com/TechInCharge/flutter-piano-app/blob/master/Piano-flutter-app.png" alt="alt text" width="whatever" height="600">
 
 ## Concepts in this App
 
